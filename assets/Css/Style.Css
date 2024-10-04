@@ -172,7 +172,7 @@ height: 80vh;
     padding-right: 100px;
 }
 .color {
-    width: 200px;
+    width: 230px;
     height: 90px;
     background-color: #fce98c;
     border: 1px solid #ffd700;
@@ -275,8 +275,8 @@ text-decoration: none;
     color: white;
     border: 1px solid white;
     border-radius: 50px;
-    position: absolute;
-    bottom: 10px;
+    /* position: absolute;
+    bottom: 50px; */
 }
 @media(max-width:992px){
     .navbar{
