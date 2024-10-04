@@ -254,7 +254,7 @@ text-decoration: none;
     background-color: #0081d9;
     border-radius: 20px 0 0 20px;
     box-shadow: 0 0 20px rgba(0, 0, 0, 0.26);
-    gap: 60px;
+    gap: 50px;
 }
 .side-bar .links_nav2{
     list-style: none;
@@ -262,7 +262,7 @@ text-decoration: none;
     justify-content: space-around;
     align-items: center;
     flex-direction: column;
-    gap: 100px;
+    gap: 50px;
 }
 .side-bar .links_nav2 a{
     text-decoration: none;
